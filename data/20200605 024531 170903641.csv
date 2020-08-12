@@ -1,4 +1,4 @@
-min,line,coderate,p2p,platform,isp,value,cnt
+min,cdn,bitrate,p2p,device,isp,value,cnt
 1591295820,5,4000,0,pc_exe,海外,0,3
 1591295820,5,8000,1,adr,海外,0,3
 1591295820,3,500,1,webh5,联通,0,18

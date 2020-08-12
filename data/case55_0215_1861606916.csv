@@ -1,4 +1,4 @@
-﻿min,line,coderate,p2p,platform,isp,kb_platform,kb_gameid,value,cnt
+min,cdn,bitrate,p2p,device,isp,platform,gameid,value,cnt
 1581771420,3,500,0,C2,电信,pc_exe_template,3203,4,19
 1581771420,7,500,1,C1,联通/电信/铁通,pc_exe_template,3203,0,3
 1581772380,3,4500,1,C8,联通,pc_exe_template,3203,0,11

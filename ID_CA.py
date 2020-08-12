@@ -2,7 +2,6 @@ import numpy as np
 import math
 
 
-# ID
 def get_sum_f_v(df):
     sum_f = df['k_predict'].sum()
     sum_v = df['k_real'].sum()
@@ -27,7 +26,6 @@ def get_influence_degree(dataframe):
     return dataframe
 
 
-# PE
 def get_sum_m(df):
     sum_f = df['value_predict'].sum()
     sum_v = df['value_real'].sum()

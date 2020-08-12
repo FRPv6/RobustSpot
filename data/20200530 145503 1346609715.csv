@@ -1,4 +1,4 @@
-min,line,coderate,p2p,platform,isp,value,cnt
+min,cdn,bitrate,p2p,device,isp,value,cnt
 1590821160,3,4000,1,pc_exe,教育网,2,6
 1590821160,15,500,0,webh5,电信,0,5
 1590821160,6,4000,0,ios,电信,6,80

@@ -1,4 +1,4 @@
-min,line,coderate,p2p,platform,isp,value,cnt
+min,cdn,bitrate,p2p,device,isp,value,cnt
 1590873720,3,500,1,ipad,联通,3,6
 1590873720,5,2000,0,adr_tv,移动,0,3
 1590873720,3,500,0,adr_tv,电信,0,3

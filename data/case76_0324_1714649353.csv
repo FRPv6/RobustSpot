@@ -1,4 +1,4 @@
-min,line,p2p,coderate,platform,value,cnt
+min,cdn,p2p,bitrate,device,value,cnt
 1585012800,3,0,2500,C3,2,35
 1585012800,5,1,500,C5,0,10
 1585012800,8,0,500,C3,0,26

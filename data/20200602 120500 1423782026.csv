@@ -1,4 +1,4 @@
-min,line,coderate,p2p,platform,isp,value,cnt
+min,cdn,bitrate,p2p,device,isp,value,cnt
 1591070160,5,4000,1,ios,电信,0,37
 1591070160,5,2000,1,adr,移动,1,53
 1591070160,7,4000,1,pc_exe,联通,0,63

@@ -1,4 +1,4 @@
-min,line,coderate,p2p,platform,isp,value,cnt
+min,cdn,bitrate,p2p,device,isp,value,cnt
 1590810840,5,8500,0,pc_exe,小运营商,0,7
 1590810840,7,500,1,adr,海外,2,39
 1590810840,7,0,0,adr_tv,移动,34,1158

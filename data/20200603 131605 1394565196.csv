@@ -1,4 +1,4 @@
-min,line,coderate,p2p,platform,isp,value,cnt
+min,cdn,bitrate,p2p,device,isp,value,cnt
 1591160820,7,500,1,ios,联通,0,12
 1591160820,3,2000,1,webh5,联通,0,6
 1591160820,3,0,0,adr,联通,3,24

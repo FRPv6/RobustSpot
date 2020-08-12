@@ -1,4 +1,4 @@
-min,line,coderate,p2p,platform,isp,value,cnt
+min,cdn,bitrate,p2p,device,isp,value,cnt
 1591213980,8,2000,1,adr,教育网,0,3
 1591213980,8,4000,1,adr,电信,4,554
 1591213980,5,500,1,adr,移动,1,46

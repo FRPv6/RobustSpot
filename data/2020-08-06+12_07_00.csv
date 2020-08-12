@@ -1,4 +1,4 @@
-min,value,cnt,line,coderate,p2p,isp
+min,value,cnt,cdn,bitrate,p2p,isp
 1596686580,4,65,7,500,1,电信
 1596686580,5,125,7,2000,1,联通
 1596686580,2,37,5,2000,1,电信

@@ -1,4 +1,4 @@
-min,line,coderate,p2p,platform,isp,value,cnt
+min,cdn,bitrate,p2p,device,isp,value,cnt
 1590844140,6,500,0,adr,小运营商,5,27
 1590844140,255,0,2,webh5,电信,9,368
 1590844140,6,2000,0,ipad,电信,3,63

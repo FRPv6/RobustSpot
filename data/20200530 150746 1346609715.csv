@@ -1,4 +1,4 @@
-min,line,coderate,p2p,platform,isp,value,cnt
+min,cdn,bitrate,p2p,device,isp,value,cnt
 1590821940,8,0,0,adr,电信,1,35
 1590821940,6,2000,0,ios,电信,21,286
 1590821940,6,500,0,gamelive,电信,0,9

@@ -1,4 +1,4 @@
-min,line,coderate,p2p,platform,isp,value,cnt
+min,cdn,bitrate,p2p,device,isp,value,cnt
 1591325280,5,4000,1,pc_exe,联通,6,27
 1591325280,3,500,0,web,联通,0,30
 1591325280,3,500,1,adr,电信,33,786

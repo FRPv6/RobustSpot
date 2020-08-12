@@ -1,4 +1,4 @@
-min,line,coderate,p2p,platform,isp,value,cnt
+min,cdn,bitrate,p2p,device,isp,value,cnt
 1590986400,7,500,0,webh5,移动,0,8
 1590986400,3,2000,1,ipad,移动,0,9
 1590986400,3,4000,1,webh5,海外,0,5

@@ -1,4 +1,4 @@
-min,line,coderate,p2p,platform,isp,value,cnt
+min,cdn,bitrate,p2p,device,isp,value,cnt
 1590824220,8,0,1,ios,未知,1,1
 1590824220,13,0,0,adr_tv,小运营商,0,3
 1590824220,13,500,1,webh5,教育网,0,3

@@ -1,4 +1,4 @@
-min,line,p2p,platform,coderate,isp,value,cnt
+min,cdn,p2p,device,bitrate,isp,value,cnt
 1587363120,3,1,C1,500,海外,0,3
 1587363120,5,1,C1,500,电信,1,33
 1587363120,5,1,C3,500,电信,0,9
