@@ -301,12 +301,6 @@
 - data: 20200530 120238 1067459140
   timestamp: 1590811140
   cause: [{'bitrate':4000}, {'bitrate':2000}]
-- data: 20200530 122658 2350069863
-  timestamp: 1590812580
-  cause: [{'bitrate':500}, {'bitrate':2000}]
-- data: 20200530 134159 1346609715
-  timestamp: 1590817080
-  cause: [{'device':'adr'}, {'device':'adr_tv'}]
 - data: 20200530 145503 1346609715
   timestamp: 1590821460
   cause: {'bitrate':4000}
@@ -316,39 +310,21 @@
 - data: 20200530 150746 1346609715
   timestamp: 1590822240
   cause: {'bitrate':4000}
-- data: 20200530 152258 1346609715
-  timestamp: 1590823140
-  cause: [{'cdn':3}, {'cdn':5}, {'cdn':7}]
 - data: 20200530 154351 1346609715
   timestamp: 1590824400
   cause: {'bitrate':4000}
 - data: 20200530 154544 1346609715
   timestamp: 1590824520
   cause: {'bitrate':4000}
-- data: 20200530 193944 1842414505
-  timestamp: 1590838560
-  cause: [{'bitrate':500}, {'bitrate':2000}]
-- data: 20200530 201251 1121940342
-  timestamp: 1590840540
-  cause: [{'device':'adr'}, {'device':'adr_tv'}, {'device':'pc_exe'}]
 - data: 20200530 202456 20320130
   timestamp: 1590841260
   cause: {'bitrate':500}
-- data: 20200530 210148 1259515661837
-  timestamp: 1590843480
-  cause: [{'bitrate':500}, {'bitrate':2000}]
-- data: 20200530 211835 1259515661837
-  timestamp: 1590844440
-  cause: [{'bitrate':500}, {'bitrate':2000}]
 - data: 20200531 002804 1608993854
   timestamp: 1590855840
   cause: {'bitrate':500, 'device':'adr'}
 - data: 20200531 004208 165415953
   timestamp: 1590856680
   cause: {'bitrate':500, 'device':'adr'}
-- data: 20200531 022655 380073577
-  timestamp: 1590862980
-  cause: [{'bitrate':4000}, {'bitrate':2000}]
 - data: 20200531 053048 1423782086
   timestamp: 1590874020
   cause: {'bitrate':500, 'p2p':1}
@@ -364,15 +340,9 @@
 - data: 20200601 204859 8184919
   timestamp: 1591015500
   cause: {'bitrate':2000}
-- data: 20200602 034644 1571877666
-  timestamp: 1591040580
-  cause: [{'bitrate':4000}, {'bitrate':500}]
 - data: 20200602 084903 1524439828
   timestamp: 1591058700
   cause: {'bitrate':500}
-- data: 20200602 115556 367138632
-  timestamp: 1591069920
-  cause: [{'bitrate':500}, {'bitrate':2000}]
 - data: 20200602 120500 1423782026
   timestamp: 1591070460
   cause: {'cdn':7, 'p2p':1}
@@ -409,30 +379,18 @@
 - data: 20200604 040135 1610847180
   timestamp: 1591214280
   cause: {'p2p':0}
-- data: 20200604 074139 1751457687
-  timestamp: 1591227480
-  cause: [{'bitrate':2000}, {'bitrate':500}]
 - data: 20200605 005935 1677942333
   timestamp: 1591289760
   cause: {'p2p':0, 'bitrate':500, 'cdn':5}
 - data: 20200605 024531 170903641
   timestamp: 1591296120
   cause: {'p2p':0, 'bitrate':2000, 'cdn':5}
-- data: 20200605 105654 1539218884
-  timestamp: 1591325580
-  cause: [{'bitrate':4000, 'cdn':3}, {'bitrate':4000, 'cdn':5}]
 - data: 20200605 120903 1191588902
   timestamp: 1591329900
   cause: {'cdn':7}
 - data: 20200606 081303 1524418094
   timestamp: 1591402140
   cause: {'bitrate':500}
-- data: 20200606 143537 367138632
-  timestamp: 1591425120
-  cause: [{'bitrate':2000, 'cdn':3}, {'bitrate':2000, 'cdn':5}]
-- data: 2020-08-06+15_11_00
-  timestamp: 1596697860
-  cause: [{'p2p':1, 'bitrate':10000, 'cdn':5}, {'p2p':1, 'cdn':3, 'bitrate':10000}]
 - data: 2020-08-06+15_09_00
   timestamp: 1596697740
   cause: {'p2p':1, 'bitrate':10000}
@@ -442,9 +400,6 @@
 - data: 2020-08-07+07_59_00
   timestamp: 1596758340
   cause: {'p2p':1, 'cdn':7, 'bitrate':2000}
-- data: 2020-08-07+07_37_00
-  timestamp: 1596757020
-  cause: [{'p2p':1, 'cdn':7, 'bitrate':4000}, {'p2p':1, 'cdn':7, 'bitrate':2000}]
 - data: 2020-08-07+09_07_00
   timestamp: 1596762420
   cause: {'bitrate':2000}
